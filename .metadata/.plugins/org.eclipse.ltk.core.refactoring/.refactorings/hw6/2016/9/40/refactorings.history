@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;list&apos; to &apos;hw5/src&apos;&#x0D;&#x0A;- Original project: &apos;hw6&apos;&#x0D;&#x0A;- Destination element: &apos;hw5/src&apos;&#x0D;&#x0A;- Original element: &apos;hw6/src/list&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=hw5/src" element1="/src&lt;list" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1474837954077" version="1.0"/>
+</session>
